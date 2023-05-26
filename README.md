@@ -1,16 +1,18 @@
-### Hi there 👋
 
+# Olá, Fábio Bruno aqui  👋
 
-**FabioSanMartin/FabioSanMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de engenharia de qualidade de software e tenho interesse em testes manuais e automatizados. 💻
+
+Utilizo a linguagem JavaScript e os frameworks Cypress, Postman e WebDriver.IO para desenvolver os meus projetos. 🚀
+
+Você pode me encontrar nas seguintes redes sociais:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-seu-nome-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fabio-analista-qa/)
+- [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-seu-nome-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/21189123/fabiobruno)
+
+Obrigado pela visita! 😄
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioSanMartin&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
